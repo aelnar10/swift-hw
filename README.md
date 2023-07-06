@@ -10,3 +10,6 @@ w2_hw: includes w2_hw with
 
 w3_hw: includes w3_hw with
 - WeatherProj -> weather project with openweather api
+
+w4_hw: includes w4_hw with
+- DealsApp -> deals app ui proj
