@@ -13,3 +13,8 @@ w3_hw: includes w3_hw with
 
 w4_hw: includes w4_hw with
 - DealsApp -> deals app ui proj
+
+w5_hw: includes w5_hw with
+- HomeView.swift -> modified homeview for dealsapp using navstack
+- StocksApp -> stocks app with tests for api calling
+- readme for both files
