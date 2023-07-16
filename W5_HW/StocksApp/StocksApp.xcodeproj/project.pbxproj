@@ -106,7 +106,6 @@
 		D0B200D62A5B8B9F002F7C15 /* StocksApp */ = {
 			isa = PBXGroup;
 			children = (
-				D0FC9FF82A5C748800BB1BBD /* Tests */,
 				D0B200D72A5B8B9F002F7C15 /* StocksAppApp.swift */,
 				D0B200D92A5B8B9F002F7C15 /* ContentView.swift */,
 				D0B201012A5B8C92002F7C15 /* Stocks.swift */,
@@ -137,6 +136,7 @@
 		D0B200F12A5B8BA4002F7C15 /* StocksAppUITests */ = {
 			isa = PBXGroup;
 			children = (
+				D0FC9FF82A5C748800BB1BBD /* Tests */,
 				D0B200F22A5B8BA4002F7C15 /* StocksAppUITests.swift */,
 				D0B200F42A5B8BA4002F7C15 /* StocksAppUITestsLaunchTests.swift */,
 			);
