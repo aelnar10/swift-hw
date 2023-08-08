@@ -18,3 +18,6 @@ w5_hw: includes w5_hw with
 - HomeView.swift -> modified homeview for dealsapp using navstack
 - StocksApp -> stocks app with tests for api calling
 - readme for both files
+
+PokedexApp: mostly practiced API calls
+- did it under a time limit to simulate technical interview mostly so some stuff isn't exactly working (i.e. images)
